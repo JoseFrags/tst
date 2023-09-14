@@ -1,0 +1,23 @@
+#navbar {
+    display: inline;
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+  <nav id="navbar" class="my-navbar">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+.my-navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+    
